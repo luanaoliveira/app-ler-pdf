@@ -32,12 +32,10 @@ requests==2.31.0
 requests-file==2.0.0
 Scrapy==2.11.1
 service-identity==24.1.0
-setuptools==69.5.1
 six==1.16.0
 tabula-py==2.9.0
 tldextract==5.1.2
 Twisted==24.3.0
-twisted-iocpsupport==1.0.4
 typing_extensions==4.11.0
 tzdata==2024.1
 urllib3==2.2.1
